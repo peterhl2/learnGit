@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=RIYrfkZjWmA&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0o
 New idea:
 make my own block diagram of how git works,
 maybe as a google drawing and save here as a png.
+
+Now trying atom with git
+4/15/2018
